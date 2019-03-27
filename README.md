@@ -4,4 +4,11 @@ i usuwać komentarze wszystkich użytkowników. Każdy użytkownik może dodawa�
 
 Baza danych została zapełniona fałszywymi danymi na potrzeby przetestowania działania aplikacji.
 
-Nie wrzuciłem kodu źródłowego ze względu na dużą ilość plików.
+Zrzuciłem tylko część kodu źródłowego, ze względu na dużą ilość plików.
+
+Najważniejsze pliki to:
+- routes/web.php
+- resources/views
+- app
+- app/http/controllers
+- database/migrations
