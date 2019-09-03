@@ -12,3 +12,5 @@ Najważniejsze pliki to:
 - app
 - app/http/controllers
 - database/migrations
+
+**W pliku screeny.pdf znajdują się zrzuty ekranu z nowszej wersji, która używa bootstrap'a do formatowania treści na stronie.**
